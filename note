@@ -1,0 +1,6 @@
+python中的hash：
+一个对象在其生命周期内，如果保持不变，就是hashable（可哈希的）。
+hashable ≈ imutable     可哈希 ≈ 不可变
+在Python中：
+list、set和dictionary 都是可改变的，比如可以通过list.append()，set.remove()，dict['key'] = value对其进行修改，所以它们都是不可哈希的；
+而tuple和string是不可变的，只可以做复制或者切片等操作，所以它们就是可哈希的。
