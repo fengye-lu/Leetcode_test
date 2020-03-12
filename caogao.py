@@ -62,6 +62,28 @@
 # e = 4
 # print(e.__hash__())
 
-a = [1,3,2,4]
-print(a.sort())
-print(a)
+# a = [1,3,2,4]
+# print(a.sort())
+# print(a)
+# rel = [0 for t in range(5)]
+# print(rel)
+# for i in range(1, 10 + 1):
+#     print(i)
+# a = []
+# print(a.append([1,2]))
+# print(a)
+# a = [1,3,2]
+# # a.sort()
+# # a.reverse()
+# print(min(a))
+
+# a = []
+# b = [[] for i in range(3)]
+# print(b)
+#
+# res = ["" for _ in range(5)]
+# print(res)
+
+# a = [1,2,3,4,5]
+# # print(sum(a[1:3]))
+a = 'asasas'
